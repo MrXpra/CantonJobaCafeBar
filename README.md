@@ -1,7 +1,3 @@
-Agrega las credenciales de supabase en las variables de entorno .env:
-
-NEXT_PUBLIC_SUPABASE_URL=https://psiocnhpdwttilgopapk.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBzaW9jbmhwZHd0dGlsZ29wYXBrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzMxNjI4MzksImV4cCI6MjA0ODczODgzOX0.0tlTlJtRcmvgNXCj67owB8WhhPdLxEcrU231_PaoAk8
 
 Recuerda que la estructura de la base de datos es la siguiente:
 
